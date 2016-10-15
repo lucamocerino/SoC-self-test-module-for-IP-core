@@ -1,0 +1,6 @@
+vhdl work "ipcore_dir/ROM.vhd"
+vhdl work "ipcore_dir/RAM.vhd"
+vhdl work "ipcore_dir/cordic_v4_0.vhd"
+vhdl work "CU.vhd"
+vhdl work "system.vhd"
+vhdl work "tb.vhd"

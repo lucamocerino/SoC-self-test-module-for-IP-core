@@ -1,0 +1,5 @@
+vhdl work "D:\sys_fault\ipcore_dir\ROM.vhd"
+vhdl work "D:\sys_fault\ipcore_dir\RAM.vhd"
+vhdl work "D:\sys_fault\ipcore_dir\cordic_v4_0.vhd"
+vhdl work "D:\sys_fault\CU.vhd"
+vhdl work "D:\sys_fault\system.vhd"

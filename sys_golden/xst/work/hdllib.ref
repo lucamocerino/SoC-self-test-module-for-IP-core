@@ -1,0 +1,11 @@
+AR system behavioral D:/sys_golden/system.vhd sub00/vhpl09 1455471115
+EN cu NULL D:/sys_golden/CU.vhd sub00/vhpl04 1455471110
+AR ram ram_a D:/sys_golden/ipcore_dir/RAM.vhd sub00/vhpl01 1455471107
+EN rom NULL D:/sys_golden/ipcore_dir/ROM.vhd sub00/vhpl02 1455471108
+AR cu fsm_process D:/sys_golden/CU.vhd sub00/vhpl10 1455471111
+AR rom rom_a D:/sys_golden/ipcore_dir/ROM.vhd sub00/vhpl03 1455471109
+EN cordic_v4_0 NULL D:/sys_golden/ipcore_dir/cordic_v4_0.vhd sub00/vhpl06 1455471112
+AR cordic_v4_0 cordic_v4_0_a D:/sys_golden/ipcore_dir/cordic_v4_0.vhd sub00/vhpl07 1455471113
+EN system NULL D:/sys_golden/system.vhd sub00/vhpl08 1455471114
+AR cu oneprocessfsm D:/sys_fault/CU.vhd sub00/vhpl05 1455314460
+EN ram NULL D:/sys_golden/ipcore_dir/RAM.vhd sub00/vhpl00 1455471106
